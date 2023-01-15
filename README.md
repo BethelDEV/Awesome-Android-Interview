@@ -94,50 +94,9 @@ A awesome  android expert interview questions and answers
 - ”Framework 高频核心面试题“
 - ”NDK 高频核心面试题“
 
-获取方法：扫描下方的二维码。
-
-<div align="center">
-<img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aBMyo7G0TS2tYYJicPHRLD5KlvoaRA6EP1QvjiaSSkxcOPibnXXtOpgRJw5J3EYHcribkDBuWUfhRF35Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
-</div>
 
 
-$\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 
-这是我过去五、六年一直研究的命题。首先，是为自己研究，因为我是从小城镇出来的，通过持续不断地逆袭立足深圳。**越是出身普通的人，就越需要有耐心，去进行系统性地全面提升，这方面，我有非常丰富的实践经验和方法论**。因此，我开启了 “JsonChao” 的成长社群，希望和你一起完成系统性地蜕变。
-
-### 星球目前有哪些服务？
-
-- 每周会提供一份让 **个人增值，避免踩坑 的硬干货**。
-- 每日以文字或语音的形式分享我个人学习和实践中的 **思考精华或复盘记录**。
-- 提供 **每月 三 次成长**、技术或面试指导的咨询服务。
-- 更多服务正在研发中...
-
-### 超哥的知识星球适合谁？
-
-- **如果你希望持续提升自己，获得更高的薪资或是想加入大厂**，那么超哥的知识星球会对你有很大的帮助。
-- **如果你既努力，又焦虑**，特别适合加入超哥的知识星球，因为我经历过同样的阶段，而且最后找到了走出焦虑，靠近梦想的地方。
-- **如果你希望改变自己的生活状态**，欢迎加入超哥的知识星球，和我一起每日迭代，持续精进。
-
-### 星球如何定价？
-
-365元每年
-
-每天一元，给自己的成长持续加油💪
-
-为了回馈 JsonChao Github 的忠实用户，我申请了少量优惠券，先到者先得，错过再无
-
-<div align="center">
-<img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aAPxe8aibFBdkiaY9ldh9uQVxw0WFJ9TicCRlhZIFibIb2ex74hWel3DpkS46aX5vFlwuZXKTNMb2ZnHg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
-</div>
-
-
-## 公众号
-
-我的公众号 `JsonChao` 开通啦，专注于构建一套未来Android开发必备的知识体系。每个工作日为您推送高质量文章，让你每天都能涨知识。如果您想第一时间获取最新文章和最新动态，欢迎扫描关注~
-
-<div align="center">
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7da61f2739d34818be8a51a7afbbbb53~tplv-k3u1fbpfcp-watermark.image?" width=30%>
-</div>
 
 ### License
 
